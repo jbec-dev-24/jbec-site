@@ -33,7 +33,7 @@ sections:
           - pr-16
 seo:
   metaTitle: Home - jbec
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: jbec-WebSite
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
