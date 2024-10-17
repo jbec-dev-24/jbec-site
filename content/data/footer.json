@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "WebSite",
-                "url": "/blog",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
