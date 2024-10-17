@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Contact me.
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Get in touch.
     text: |
       Enter some details to contact us.
     actions: []
