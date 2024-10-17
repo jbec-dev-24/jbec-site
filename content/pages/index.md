@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: jbec-WebSite
     text: |
-      jbec-Site
+      This webpage was made to run small services and to share information.
     actions:
       - label: Get started
         altText: ''
