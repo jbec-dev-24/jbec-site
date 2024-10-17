@@ -9,7 +9,7 @@ sections:
       color: text-dark
     subtitle: Get in touch.
     text: |
-      Enter some details to contact us.
+      Enter some details to contact me.
     actions: []
     media:
       type: FormBlock
